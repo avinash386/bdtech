@@ -7,6 +7,8 @@
 #include "sensor.h"
 #include "defines.h"
 
+//git commit
+
 
 extern ESP8266WebServer server;
 extern bool wifiStaConnectedtoAP;
